@@ -1,4 +1,4 @@
-# Solving-ODEs-using-PINNs                                                                                                                                          
+# Solving-ODEs-using-PINNs                                                                                                                                           
 
 The notebook you can find here is intended as a concise introduction to the thrilling topic of using $Physically \hspace{1mm} Informed \hspace{1mm} Neural \hspace{1mm} Networks$ (PINNs) to solve $Ordinary \hspace{1mm} Differential \hspace{1mm} Equations$ (ODE) of various orders. These ODEs stem from well-known physical systems or phenomena and can be solved either analytically or numerically employing classical numerical integration methods like Runge-Kutta of $4^{th}$ order. The exercises shown here aim to enable students to: build a PINN, tune the hyperparameters, and much more.
 
